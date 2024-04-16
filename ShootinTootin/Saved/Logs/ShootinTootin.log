@@ -901,3 +901,184 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.16-08.58.05:889][  0]LogAssetRegistry: Asset discovery search completed in 9.3258 seconds
 [2024.04.16-08.58.05:892][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2024.04.16-08.58.05:893][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.04.16-08.59.09:468][104]LogSlate: Took 0.013865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.16-09.10.02:771][698]LogTexture: Display: Building textures: T_Enemy_GreaterSpider_Fire_M (OODLE_AutoDXT, 2048X2048)
+[2024.04.16-09.10.02:771][698]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.16-09.10.02:771][698]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.16-09.10.02:771][698]LogTexture: Display: Building textures: T_Enemy_GreaterSpider_Fire_D (OODLE_AutoDXT, 2048X2048)
+[2024.04.16-09.10.02:771][698]LogTexture: Display: Building textures: T_Enemy_GreaterSpider_Fire_N (OODLE_BC5, 2048X2048)
+[2024.04.16-09.10.02:771][698]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.16-09.10.02:771][698]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.16-09.10.02:771][698]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.16-09.10.02:771][698]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.16-09.10.02:771][698]LogMaterial: Display: Missing cached shadermap for CharM_Greater_Spider in PCD3D_SM5, Default, SM5 (DDC key hash: 141AA4A0A3CC87D1B2553F049186D0033CBE8A0A), compiling. 
+[2024.04.16-09.10.02:812][698]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 32
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 23
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 20
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2024.04.16-09.10.02:822][698]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2024.04.16-09.10.02:822][698]LogSkeletalMesh: Building Skeletal Mesh SK_Greater_Spider...
+[2024.04.16-09.10.02:824][698]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Characters/Enemy_Great_Spider/SK_Greater_Spider.SK_Greater_Spider
+[2024.04.16-09.10.04:661][801]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.16-09.10.04:661][801]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2024.04.16-09.10.04:661][801]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 3 distinct outputs (100.00%)
+[2024.04.16-09.10.04:661][801]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2024.04.16-09.10.04:661][801]LogShaderCompilers: Display: ================================================
+[2024.04.16-09.10.07:170][ 91]Cmd: TRANSACTION UNDO
+[2024.04.16-09.10.07:170][ 91]LogEditorTransaction: Undo Create Actors
+[2024.04.16-09.10.07:180][ 91]LogSlate: Took 0.003521 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.16-09.10.09:533][333]Cmd: TRANSACTION UNDO
+[2024.04.16-09.10.09:533][333]LogEditorTransaction: Undo Create Actors
+[2024.04.16-09.10.12:055][619]Cmd: TRANSACTION UNDO
+[2024.04.16-09.10.12:055][619]LogEditorTransaction: Undo Create Actors
+[2024.04.16-09.10.20:905][553]LogTexture: Display: Building textures: Chr_FPS_Fabric_N_01 (OODLE_BC5, 512X512)
+[2024.04.16-09.10.20:905][553]LogTexture: Display: Building textures: T_Vista_Grass_N (OODLE_BC5, 1024X1024)
+[2024.04.16-09.10.20:905][553]LogTexture: Display: Building textures: Chr_FPS_M (BGRA8, 2048X2048)
+[2024.04.16-09.10.20:905][553]LogTexture: Display: Building textures: Chr_FPS_02_M (OODLE_AutoDXT, 2048X2048)
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTexture: Display: Building textures: T_Sctraches_01 (OODLE_AutoDXT, 2048X2048)
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTexture: Display: Building textures: Chr_FPS_Metal_01 (OODLE_BC5, 2048X2048)
+[2024.04.16-09.10.20:905][553]LogTexture: Display: Building textures: Chr_FPS_D (OODLE_AutoDXT, 2048X2048)
+[2024.04.16-09.10.20:905][553]LogTexture: Display: Building textures: Chr_FPS_M_03tga (OODLE_AutoDXT, 2048X2048)
+[2024.04.16-09.10.20:905][553]LogTexture: Display: Building textures: Chr_FPS_Metal_02 (OODLE_AutoDXT, 2048X2048)
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTexture: Display: Building textures: Chr_FPS_N (OODLE_BC5, 2048X2048)
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.04.16-09.10.20:905][553]LogSkeletalMesh: Building Skeletal Mesh Marine...
+[2024.04.16-09.10.20:917][553]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Characters/Marine/Marine.Marine
+[2024.04.16-09.10.20:918][553]LogMaterial: Display: Missing cached shadermap for M_Marine in PCD3D_SM5, Default, SM5 (DDC key hash: 108BFBEABD2BB7718FABC360F51D051FAC1D09E8), compiling. 
+[2024.04.16-09.10.20:972][553]LogShaderCompilers: Display: Submitted 84 shader compile jobs with 'Low' priority
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 84
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 76
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 68
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 60
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 52
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 44
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 36
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 28
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2024.04.16-09.10.20:975][553]LogShaderCompilers: Display: Started 84 'Local' shader compile jobs with 'Low' priority
+[2024.04.16-09.10.25:015][886]Cmd: TRANSACTION UNDO
+[2024.04.16-09.10.25:015][886]LogEditorTransaction: Undo Create Actors
+[2024.04.16-09.10.45:247][229]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.04.16-09.12.48:961][ 39]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.04.16-09.13.03:873][819]Cmd: TRANSACTION UNDO
+[2024.04.16-09.13.03:873][819]LogEditorTransaction: Undo Clicking on Actors
+[2024.04.16-09.13.05:368][959]Cmd: TRANSACTION UNDO
+[2024.04.16-09.13.05:369][959]LogEditorTransaction: Undo Create Actors
+[2024.04.16-09.14.46:057][887]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.16-09.14.46:066][887]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.16-09.14.49:984][319]LogContentBrowser: Attempting asset rename: NewFolder -> blueprints
+[2024.04.16-09.14.49:984][319]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.16-09.14.55:808][970]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.16-09.14.57:216][970]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.16-09.14.57:224][970]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.16-09.14.57:229][970]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.16-09.15.32:093][136]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_mrSHOOTIN
+[2024.04.16-09.15.32:102][136]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.16-09.15.41:858][285]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.16-09.15.41:864][285]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.16-09.15.43:894][526]LogContentBrowser: Attempting asset rename: NewFolder -> level
+[2024.04.16-09.15.43:894][526]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.16-09.15.50:167][264]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/BP_mrSHOOTIN.BP_mrSHOOTIN
+[2024.04.16-09.15.50:713][264]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2024.04.16-09.15.54:310][519]LogRenderer: Reallocating scene render targets to support 1616x1252 Format 10 NumSamples 1 (Frame:245).
+[2024.04.16-09.15.54:536][545]LogSlate: Window 'BP_mrSHOOTIN' being destroyed
+[2024.04.16-09.17.30:599][959]LogContentBrowser: Attempting asset rename: blueprints -> blueprints
+[2024.04.16-09.17.39:904][ 43]LogContentBrowser: Attempting asset rename: level -> Levels
+[2024.04.16-09.17.43:940][511]LogContentBrowser: Attempting asset rename: blueprints -> dsf
+[2024.04.16-09.17.43:964][511]LogMetaData: Removing '/Game/dsf/BP_mrSHOOTIN.BP_mrSHOOTIN:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/blueprints/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.43:964][511]LogMetaData: Removing '/Game/dsf/BP_mrSHOOTIN.SKEL_BP_mrSHOOTIN_C:UserConstructionScript' ref from Metadata '/Game/blueprints/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.43:964][511]LogMetaData: Removing '/Game/dsf/BP_mrSHOOTIN.SKEL_BP_mrSHOOTIN_C' ref from Metadata '/Game/blueprints/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.43:964][511]LogMetaData: Removing '/Game/dsf/BP_mrSHOOTIN.BP_mrSHOOTIN_C' ref from Metadata '/Game/blueprints/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.43:964][511]LogMetaData: Removing '/Game/dsf/BP_mrSHOOTIN.BP_mrSHOOTIN:EventGraph.K2Node_Event_0' ref from Metadata '/Game/blueprints/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.43:964][511]LogMetaData: Removing '/Game/dsf/BP_mrSHOOTIN.BP_mrSHOOTIN:EventGraph.K2Node_Event_1' ref from Metadata '/Game/blueprints/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.43:964][511]LogMetaData: Removing '/Game/dsf/BP_mrSHOOTIN.BP_mrSHOOTIN:EventGraph.K2Node_Event_2' ref from Metadata '/Game/blueprints/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.43:999][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/dsf/BP_mrSHOOTIN" FILE="C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/dsf/BP_mrSHOOTIN.uasset" SILENT=true
+[2024.04.16-09.17.44:015][511]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/BP_mrSHOOTIN045076E54B45637B054C029C426D5877.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/dsf/BP_mrSHOOTIN.uasset'
+[2024.04.16-09.17.44:069][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.04.16-09.17.44:086][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.04.16-09.17.44:098][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.16-09.17.44:144][511]AssetCheck: New page: Asset Save: BP_mrSHOOTIN
+[2024.04.16-09.17.44:144][511]LogContentValidation: Display: Validating Blueprint /Game/dsf/BP_mrSHOOTIN.BP_mrSHOOTIN
+[2024.04.16-09.17.50:205][213]LogContentBrowser: Attempting asset rename: dsf -> Blueprints
+[2024.04.16-09.17.50:219][213]LogMetaData: Removing '/Game/Blueprints/BP_mrSHOOTIN.BP_mrSHOOTIN_C' ref from Metadata '/Game/dsf/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.50:219][213]LogMetaData: Removing '/Game/Blueprints/BP_mrSHOOTIN.SKEL_BP_mrSHOOTIN_C' ref from Metadata '/Game/dsf/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.50:219][213]LogMetaData: Removing '/Game/Blueprints/BP_mrSHOOTIN.SKEL_BP_mrSHOOTIN_C:UserConstructionScript' ref from Metadata '/Game/dsf/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.50:219][213]LogMetaData: Removing '/Game/Blueprints/BP_mrSHOOTIN.BP_mrSHOOTIN:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/dsf/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.50:219][213]LogMetaData: Removing '/Game/Blueprints/BP_mrSHOOTIN.BP_mrSHOOTIN:EventGraph.K2Node_Event_0' ref from Metadata '/Game/dsf/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.50:219][213]LogMetaData: Removing '/Game/Blueprints/BP_mrSHOOTIN.BP_mrSHOOTIN:EventGraph.K2Node_Event_1' ref from Metadata '/Game/dsf/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.50:219][213]LogMetaData: Removing '/Game/Blueprints/BP_mrSHOOTIN.BP_mrSHOOTIN:EventGraph.K2Node_Event_2' ref from Metadata '/Game/dsf/BP_mrSHOOTIN.PackageMetaData'
+[2024.04.16-09.17.50:257][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_mrSHOOTIN" FILE="C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Blueprints/BP_mrSHOOTIN.uasset" SILENT=true
+[2024.04.16-09.17.50:266][213]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/BP_mrSHOOTIN9094AA4F4175D73D999362BF6E70C3A1.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Blueprints/BP_mrSHOOTIN.uasset'
+[2024.04.16-09.17.50:312][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.04.16-09.17.50:328][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.16-09.17.50:341][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.04.16-09.17.50:368][213]AssetCheck: New page: Asset Save: BP_mrSHOOTIN
+[2024.04.16-09.17.50:368][213]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_mrSHOOTIN.BP_mrSHOOTIN
+[2024.04.16-09.18.18:116][511]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.16-09.18.24:142][511]LogSlate: Window 'Save Level As' being destroyed
+[2024.04.16-09.18.24:184][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.16-09.18.24:203][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.04.16-09.18.24:209][511]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/Level_01BE734BFE432721D3045BAEBD6402A630.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Level_01.umap'
+[2024.04.16-09.18.24:212][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01_BuiltData" FILE="C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Level_01_BuiltData.uasset" SILENT=true
+[2024.04.16-09.18.24:226][511]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/Level_01_BuiltData863CE0F14916A842E9FF45B81CF7BC5B.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Level_01_BuiltData.uasset'
+[2024.04.16-09.18.24:246][511]LogFileHelpers: Saving map 'Level_01' took 0.101
+[2024.04.16-09.18.24:252][511]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-09.18.24:252][511]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level_01_BuiltData.Level_01_BuiltData
+[2024.04.16-09.18.24:252][511]LogContentValidation: Display: Validating World /Game/Level_01.Level_01
+[2024.04.16-09.18.36:721][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_01_BuiltData" FILE="C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.04.16-09.18.36:730][920]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/Level_01_BuiltData5274F510456D989AF5ACF5834D44D171.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Levels/Level_01_BuiltData.uasset'
+[2024.04.16-09.18.36:765][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.04.16-09.18.36:770][920]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/Level_017D47E6814D411A9404D0899190FC7B3E.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Levels/Level_01.umap'
+[2024.04.16-09.18.36:771][920]LogFileHelpers: Saving map 'Level_01' took 0.042
+[2024.04.16-09.18.36:827][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.04.16-09.18.36:842][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.16-09.18.36:863][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.04.16-09.18.36:878][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.16-09.18.36:904][920]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-09.18.36:904][920]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.04.16-09.18.36:904][920]LogContentValidation: Display: Validating World /Game/Levels/Level_01.Level_01
+[2024.04.16-09.25.43:624][785]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.16-09.26.00:415][762]LogEditorTransaction: Undo Modify Component(s)
+[2024.04.16-09.26.58:457][569]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Marine)
+[2024.04.16-09.26.59:301][665]Cmd: DELETE
+[2024.04.16-09.26.59:301][665]Cmd: ACTOR DELETE
+[2024.04.16-09.26.59:315][665]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2024.04.16-09.26.59:345][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2024.04.16-09.26.59:349][665]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.04.16-09.27.00:522][806]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2024.04.16-09.27.01:278][894]LogEditorViewport: Clicking on Actor (LMB): BP_mrSHOOTIN_C (BP_mrSHOOTIN)
+[2024.04.16-09.28.21:799][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.16-09.28.21:809][576]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/Level_01136BCC56431C12444EBD2A812EBBAE69.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Levels/Level_01.umap'
+[2024.04.16-09.28.21:812][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_01_BuiltData" FILE="C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.04.16-09.28.21:821][576]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/Level_01_BuiltDataC440DF894F74F4DEAF3CD4871368E015.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Levels/Level_01_BuiltData.uasset'
+[2024.04.16-09.28.21:831][576]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-09.28.21:831][576]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.04.16-09.28.21:831][576]LogContentValidation: Display: Validating World /Game/Levels/Level_01.Level_01
+[2024.04.16-09.28.22:383][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.04.16-09.28.22:401][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_mrSHOOTIN" FILE="C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Blueprints/BP_mrSHOOTIN.uasset" SILENT=true
+[2024.04.16-09.28.22:408][631]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/BP_mrSHOOTIN518D870149EA8BE7A191B88AC3926296.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Blueprints/BP_mrSHOOTIN.uasset'
+[2024.04.16-09.28.22:418][631]AssetCheck: New page: Asset Save: BP_mrSHOOTIN
+[2024.04.16-09.28.22:418][631]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_mrSHOOTIN.BP_mrSHOOTIN
