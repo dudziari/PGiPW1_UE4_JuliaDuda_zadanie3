@@ -1082,3 +1082,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.16-09.28.22:408][631]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/BP_mrSHOOTIN518D870149EA8BE7A191B88AC3926296.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Blueprints/BP_mrSHOOTIN.uasset'
 [2024.04.16-09.28.22:418][631]AssetCheck: New page: Asset Save: BP_mrSHOOTIN
 [2024.04.16-09.28.22:418][631]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_mrSHOOTIN.BP_mrSHOOTIN
+[2024.04.16-09.42.26:425][190]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.04.16-09.43.57:913][615]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.16-09.43.57:918][615]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.16-09.44.01:920][ 49]LogSlate: Took 0.003889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.16-09.44.28:807][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2024.04.16-09.44.28:861][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.04.16-09.44.28:866][126]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/Level_018B9D48554919F7259F9D53B9ADF58B18.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Levels/Level_01.umap'
+[2024.04.16-09.44.28:874][126]LogFileHelpers: Saving map 'Level_01' took 0.052
+[2024.04.16-09.44.28:882][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_mrSHOOTIN" FILE="C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Blueprints/BP_mrSHOOTIN.uasset" SILENT=true
+[2024.04.16-09.44.28:889][126]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/BP_mrSHOOTIN8A2D72754248797B1F474EA8D005AB2A.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Blueprints/BP_mrSHOOTIN.uasset'
+[2024.04.16-09.44.28:913][126]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-09.44.28:913][126]LogContentValidation: Display: Validating World /Game/Levels/Level_01.Level_01
+[2024.04.16-09.44.28:913][126]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_mrSHOOTIN.BP_mrSHOOTIN
+[2024.04.16-09.44.31:206][392]BlueprintLog: New page: Compile BP_mrSHOOTIN
+[2024.04.16-09.44.31:292][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.04.16-09.44.31:997][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.04.16-09.44.32:025][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.04.16-09.44.32:031][469]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/Level_01DD06E1CF4C09B57D4C8851BC1CB89F63.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Levels/Level_01.umap'
+[2024.04.16-09.44.32:038][469]LogFileHelpers: Saving map 'Level_01' took 0.028
+[2024.04.16-09.44.32:048][469]AssetCheck: New page: Asset Save: Level_01
+[2024.04.16-09.44.32:048][469]LogContentValidation: Display: Validating World /Game/Levels/Level_01.Level_01
+[2024.04.16-09.44.33:993][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.16-09.44.33:998][672]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/Level_01D59F19A24EDE119E02987E830714775B.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Levels/Level_01.umap'
+[2024.04.16-09.44.34:007][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_01_BuiltData" FILE="C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Levels/Level_01_BuiltData.uasset" SILENT=true
+[2024.04.16-09.44.34:015][672]LogSavePackage: Moving 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Saved/Level_01_BuiltData87DA441646AC25F5CA6B5CA9FE2BE278.tmp' to 'C:/Users/student/Documents/GitHub/PGiPW1_UE4_JuliaDuda_zadanie3/ShootinTootin/Content/Levels/Level_01_BuiltData.uasset'
+[2024.04.16-09.44.34:025][672]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.16-09.44.34:025][672]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Level_01_BuiltData.Level_01_BuiltData
+[2024.04.16-09.44.34:025][672]LogContentValidation: Display: Validating World /Game/Levels/Level_01.Level_01
+[2024.04.16-09.44.34:533][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
